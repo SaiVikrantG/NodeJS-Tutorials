@@ -1,0 +1,11 @@
+{
+  "name": "get-date-after-x-days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "2.19.0"
+  }
+}

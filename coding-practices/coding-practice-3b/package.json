@@ -1,0 +1,11 @@
+{
+    "name": "gadgets-page",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "4.17.1"
+    }
+}

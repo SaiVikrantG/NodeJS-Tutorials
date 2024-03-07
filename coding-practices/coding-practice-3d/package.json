@@ -1,0 +1,12 @@
+{
+    "name": "get-a-string",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "4.17.1"
+    }
+  }
+  
